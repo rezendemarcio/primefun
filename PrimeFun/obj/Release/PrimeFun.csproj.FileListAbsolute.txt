@@ -1,0 +1,6 @@
+C:\Users\Marcio\source\repos\PrimeFun\PrimeFun\bin\Release\PrimeFun.exe.config
+C:\Users\Marcio\source\repos\PrimeFun\PrimeFun\bin\Release\PrimeFun.exe
+C:\Users\Marcio\source\repos\PrimeFun\PrimeFun\bin\Release\PrimeFun.pdb
+C:\Users\Marcio\source\repos\PrimeFun\PrimeFun\obj\Release\PrimeFun.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\PrimeFun\PrimeFun\obj\Release\PrimeFun.exe
+C:\Users\Marcio\source\repos\PrimeFun\PrimeFun\obj\Release\PrimeFun.pdb
